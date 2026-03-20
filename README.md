@@ -61,7 +61,7 @@ and fault tolerance within cost constraints.
 A Genetic Algorithm that evolves fault-tolerant, cost-optimized networks in real time.
 
 ## Live Demo
-https://alisha-bhatti.github.io/GA_project/ga-network-optimizer
+https://alisha-bhatti.github.io/ga-network-optimizer
 
 ## Features
 - Real-time animated network visualization
