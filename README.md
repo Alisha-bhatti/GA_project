@@ -52,3 +52,23 @@ length, and high redundancy.
 • Fitness Score: ~2.89 
 This confirms that the GA successfully evolved a network design that maintains performance 
 and fault tolerance within cost constraints.
+
+
+
+
+# GA Network Optimizer
+
+A Genetic Algorithm that evolves fault-tolerant, cost-optimized networks in real time.
+
+## Live Demo
+https://alisha-bhatti.github.io/GA_project/ga-network-optimizer
+
+## Features
+- Real-time animated network visualization
+- Adjustable GA parameters
+- Live fitness evolution chart
+- Flying particle animations
+
+## Files
+- `index.html` — Interactive frontend (runs in browser)
+- `GA_network_optimization.ipynb` — Python notebook (Google Colab)
